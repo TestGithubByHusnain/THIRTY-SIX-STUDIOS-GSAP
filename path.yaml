@@ -1,0 +1,27 @@
+Basic react app
+tailwind css
+create app component
+download images from thirt six studio
+make image in array
+create a canvas component
+load first 150 images and show in the canvas
+animate the canvas
+make canvas dynamic so it load 150 images from desired index
+reuse the canvas component to create a new canvas as many time you want
+{/* <div className="w-full relative min-h-screen">
+{data[1].map((canvasdets, index)=>(
+  <Canvas details={canvasdets}/>
+))}
+</div>
+<div className="w-full relative min-h-screen">
+{data[2].map((canvasdets, index)=>(
+  <Canvas details={canvasdets}/>
+))}
+</div>
+<div className="w-full relative min-h-screen">
+{data[3].map((canvasdets, index)=>(
+  <Canvas details={canvasdets}/>
+))}
+</div> */}
+
+
